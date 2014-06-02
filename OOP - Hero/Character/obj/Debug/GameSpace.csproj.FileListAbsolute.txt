@@ -1,0 +1,5 @@
+E:\Programs\GameProject\Character\bin\Debug\GameSpaceLib.dll
+E:\Programs\GameProject\Character\bin\Debug\GameSpaceLib.pdb
+E:\Programs\GameProject\Character\obj\Debug\GameSpaceLib.dll
+E:\Programs\GameProject\Character\obj\Debug\GameSpaceLib.pdb
+E:\Programs\GameProject\Character\obj\Debug\GameSpace.csprojResolveAssemblyReference.cache

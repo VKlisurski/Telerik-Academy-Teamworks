@@ -1,0 +1,72 @@
+E:\Programs\GameProject\Program\bin\Debug\Program.exe.config
+E:\Programs\GameProject\Program\bin\Debug\Program.exe
+E:\Programs\GameProject\Program\bin\Debug\Program.pdb
+E:\Programs\GameProject\Program\bin\Debug\Character.dll
+E:\Programs\GameProject\Program\bin\Debug\Character.pdb
+E:\Programs\GameProject\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+E:\Programs\GameProject\Program\obj\Debug\Program.exe
+E:\Programs\GameProject\Program\obj\Debug\Program.pdb
+C:\Users\Viktor\Desktop\Game\Program\bin\Debug\Program.exe.config
+C:\Users\Viktor\Desktop\Game\Program\obj\Debug\Program.exe
+C:\Users\Viktor\Desktop\Game\Program\obj\Debug\Program.pdb
+C:\Users\Viktor\Desktop\Game\Program\bin\Debug\Program.exe
+C:\Users\Viktor\Desktop\Game\Program\bin\Debug\Program.pdb
+C:\Users\Viktor\Desktop\Game\Program\bin\Debug\Character.dll
+C:\Users\Viktor\Desktop\Game\Program\bin\Debug\Character.pdb
+C:\Users\Viktor\Desktop\Game\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+D:\Gemini\DEV\Akademy\Last\TeamWork\Program\bin\Debug\Program.exe.config
+D:\Gemini\DEV\Akademy\Last\TeamWork\Program\obj\Debug\Program.exe
+D:\Gemini\DEV\Akademy\Last\TeamWork\Program\obj\Debug\Program.pdb
+D:\Gemini\DEV\Akademy\Last\TeamWork\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+D:\Gemini\DEV\Akademy\Last\TeamWork\Program\bin\Debug\Program.exe
+D:\Gemini\DEV\Akademy\Last\TeamWork\Program\bin\Debug\Program.pdb
+D:\Gemini\DEV\Akademy\Last\TeamWork\Program\bin\Debug\Character.dll
+D:\Gemini\DEV\Akademy\Last\TeamWork\Program\bin\Debug\Character.pdb
+F:\Telerik\tasks\OOPGame\Program\bin\Debug\Program.exe.config
+F:\Telerik\tasks\OOPGame\Program\obj\Debug\Program.exe
+F:\Telerik\tasks\OOPGame\Program\obj\Debug\Program.pdb
+F:\Telerik\tasks\OOPGame\Program\bin\Debug\Program.exe
+F:\Telerik\tasks\OOPGame\Program\bin\Debug\Program.pdb
+F:\Telerik\tasks\OOPGame\Program\bin\Debug\Character.dll
+F:\Telerik\tasks\OOPGame\Program\bin\Debug\Character.pdb
+F:\Telerik\tasks\OOPGame\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-2\Program\bin\Debug\Program.exe.config
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-2\Program\bin\Debug\Program.exe
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-2\Program\bin\Debug\Program.pdb
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-2\Program\bin\Debug\Character.dll
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-2\Program\bin\Debug\Character.pdb
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-2\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-2\Program\obj\Debug\Program.exe
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-2\Program\obj\Debug\Program.pdb
+C:\Users\Viko\Desktop\Game\Program\bin\Debug\Program.exe.config
+C:\Users\Viko\Desktop\Game\Program\obj\Debug\Program.exe
+C:\Users\Viko\Desktop\Game\Program\obj\Debug\Program.pdb
+C:\Users\Viko\Desktop\Game\Program\bin\Debug\Program.exe
+C:\Users\Viko\Desktop\Game\Program\bin\Debug\Program.pdb
+C:\Users\Viko\Desktop\Game\Program\bin\Debug\Character.dll
+C:\Users\Viko\Desktop\Game\Program\bin\Debug\Character.pdb
+C:\Users\Viko\Desktop\Game\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-3\Program\bin\Debug\Program.exe.config
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-3\Program\bin\Debug\Program.exe
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-3\Program\bin\Debug\Program.pdb
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-3\Program\bin\Debug\Character.dll
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-3\Program\bin\Debug\Character.pdb
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-3\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-3\Program\obj\Debug\Program.exe
+C:\Users\Victor\Documents\Visual Studio 2013\Projects\oop-game-3\Program\obj\Debug\Program.pdb
+D:\Academy\OOP\TeamWork\Project\Game\Program\bin\Debug\Program.exe.config
+D:\Academy\OOP\TeamWork\Project\Game\Program\obj\Debug\Program.exe
+D:\Academy\OOP\TeamWork\Project\Game\Program\obj\Debug\Program.pdb
+D:\Academy\OOP\TeamWork\Project\Game\Program\bin\Debug\Program.exe
+D:\Academy\OOP\TeamWork\Project\Game\Program\bin\Debug\Program.pdb
+D:\Academy\OOP\TeamWork\Project\Game\Program\bin\Debug\Character.dll
+D:\Academy\OOP\TeamWork\Project\Game\Program\bin\Debug\Character.pdb
+D:\Academy\OOP\TeamWork\Project\Game\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+D:\Academy\Git\Telerik Academy Team works\OOP Game\Program\bin\Debug\Program.exe.config
+D:\Academy\Git\Telerik Academy Team works\OOP Game\Program\obj\Debug\Program.exe
+D:\Academy\Git\Telerik Academy Team works\OOP Game\Program\obj\Debug\Program.pdb
+D:\Academy\Git\Telerik Academy Team works\OOP Game\Program\bin\Debug\Program.exe
+D:\Academy\Git\Telerik Academy Team works\OOP Game\Program\bin\Debug\Program.pdb
+D:\Academy\Git\Telerik Academy Team works\OOP Game\Program\bin\Debug\Character.dll
+D:\Academy\Git\Telerik Academy Team works\OOP Game\Program\bin\Debug\Character.pdb
+D:\Academy\Git\Telerik Academy Team works\OOP Game\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache

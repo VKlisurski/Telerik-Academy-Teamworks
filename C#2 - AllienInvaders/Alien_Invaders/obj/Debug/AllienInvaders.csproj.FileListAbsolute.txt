@@ -1,0 +1,6 @@
+D:\Academy\C#2\TeamWork\Official Project\alieninvaders\Official Project\AllienInvaders\Alien_Invaders\bin\Debug\Alien_Invaders.exe.config
+D:\Academy\C#2\TeamWork\Official Project\alieninvaders\Official Project\AllienInvaders\Alien_Invaders\bin\Debug\Alien_Invaders.exe
+D:\Academy\C#2\TeamWork\Official Project\alieninvaders\Official Project\AllienInvaders\Alien_Invaders\bin\Debug\Alien_Invaders.pdb
+D:\Academy\C#2\TeamWork\Official Project\alieninvaders\Official Project\AllienInvaders\Alien_Invaders\obj\Debug\AllienInvaders.csprojResolveAssemblyReference.cache
+D:\Academy\C#2\TeamWork\Official Project\alieninvaders\Official Project\AllienInvaders\Alien_Invaders\obj\Debug\Alien_Invaders.exe
+D:\Academy\C#2\TeamWork\Official Project\alieninvaders\Official Project\AllienInvaders\Alien_Invaders\obj\Debug\Alien_Invaders.pdb

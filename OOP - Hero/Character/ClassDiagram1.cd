@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Character.Bat" Collapsed="true">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character.Boss" Collapsed="true">
+    <Position X="13.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Boss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character.Character" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUQCAAAAAAAABAgAAAAABQRAQAAAAAJQRAAQAEABAA=</HashCode>
+      <FileName>Character.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Character.ConsoleRenderer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQABAAAAABAAAAIAAAAAABAAACAAAAEAAQA=</HashCode>
+      <FileName>ConsoleRenderer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Character.Creature" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACiAAAAIAAAABCAAAAAgBAAIAAAAAEAAAQAAAAAA=</HashCode>
+      <FileName>Creature.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character.Elf" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAg=</HashCode>
+      <FileName>Elf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character.Engine" Collapsed="true">
+    <Position X="15.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAQAAAAABAAMAAAIARAFABCAAAAgwwABAAEgAI=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character.Humanoid" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAABAAAAAAAAAABAAAAAAAEAEBAQBAAAAA=</HashCode>
+      <FileName>Humanoid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character.KeyboardInterface" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAQAAAAAAQAEAAEAAAAAAgAAAAAAAAAAAACAA=</HashCode>
+      <FileName>KeyboardInterface.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Character.Knight" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAEAAEAFAAAEAAAACAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Knight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character.Loot" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Loot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Character.MatrixCoords" Collapsed="true">
+    <Position X="17" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAwAEAAAAAAAEAAoAAAAAAAAAAAAA=</HashCode>
+      <FileName>MatrixCoords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character.Ninja" Collapsed="true">
+    <Position X="15.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ninja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character.NPC" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>NPC.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Character.Orc" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Orc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Character.Rat" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Character.IRenderable" Collapsed="true">
+    <Position X="15.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>IRenderable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Character.IRenderer" Collapsed="true">
+    <Position X="17" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>IRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Character.IStatic" Collapsed="true">
+    <Position X="18.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>IStatic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Character.IUserInterface" Collapsed="true">
+    <Position X="15.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAQAAAAAAQAEAAEAAAAAAgAAAAAAAAAAAACAA=</HashCode>
+      <FileName>IUserInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Character.Items" Collapsed="true">
+    <Position X="19" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACAAAAAEQAAQAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Items.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
