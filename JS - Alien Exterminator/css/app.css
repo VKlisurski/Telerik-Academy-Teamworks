@@ -1,0 +1,81 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+svg{
+    position: absolute;
+    z-index: 1;
+}
+svg text{
+    display:block;
+    fill: #fff;
+    font-family: calibri;
+    font-weight: bold;
+    text-anchor: middle;
+}
+/* Welcome screen */
+#welcome-screen #title1 { font-size: 1400% }
+#welcome-screen #title2 { font-size: 500%; fill: #0af }
+#welcome-screen #btn-play { font-size: 500%; }
+#welcome-screen #btn-play:hover{ cursor: pointer; fill:#444;}
+
+/* Game over screen */
+#game-over{
+    display: none;
+}
+#game-over #game-over-title {
+    font-size: 1400%;
+    fill: #f00;
+}
+#game-over #btn-play-again{
+    font-size: 500%;
+}
+#game-over #btn-play-again:hover{ cursor: pointer; fill:#444;}
+/* Canvas */
+canvas {
+    display: none;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+/* Instructions */
+#instructions {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    left:0;
+    right:0;
+    bottom: 0;
+}
+/* Lives */
+#lives{
+    display: none;
+    top: 12%;
+    left: 90%;
+}
+/* Bullets */
+#bulletsLeft{
+    display: none;
+    top: 16%;
+    left: 90%;
+}
+/* Score */
+#score{
+    display: none;
+    top: 20%;
+    left: 90%;
+}
+
+
+.game-info{
+    position: absolute;
+    z-index: 2;
+    color:  #0af;
+    font-weight: bold;
+}
+
