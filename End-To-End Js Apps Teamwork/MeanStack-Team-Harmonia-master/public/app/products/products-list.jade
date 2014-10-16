@@ -1,0 +1,43 @@
+.container
+    .row
+        .col-md-2 Search
+                input.form-control(type="text", placeholder="Search" ng-model="sort")
+        .col-md-2 Sort
+            select.form-control(ng-model="selectionOption.sortBy" ng-change="getProducts(selectionOption)")
+                option(value="name") Name
+                option(value="price") Price
+                option(value="description") Description
+
+        .col-md-2 Order by
+            select.form-control(ng-model="selectionOption.order" ng-change="getProducts(selectionOption)")
+                option(value="asc") Ascending
+                option(value="desc") Descending
+        .col-md-1 Page
+            input.form-control(type="number", ng-model="selectionOption.page", min = "0", ng-change="getProducts(selectionOption)")
+         .col-md-2
+            a.form-control(href="#/mybasket" ng-if="isAuthenticated === true") My basket
+
+
+    br
+    table.table.table-striped.table-hover
+        tr
+            th Title
+            th Categories
+            th Description
+            th Image
+            th Stock
+            th Stars
+            th Price
+        tr(ng-repeat="product in products | filter: sort")
+            td
+                a(href="#/products/{{ product._id }}") {{ product.name }}
+            td
+                p(ng-repeat="category in product.categories") {{category}}
+            td {{ product.description }}
+            td
+                img(ng-src="{{ product.picture }}")
+            td  {{ product.stock }}
+            td  {{ product.stars }}
+            td  {{ product.price }}
+            td
+                button.btn.btn-default(ng-click="saveToBasket(product)" ng-if="isAuthenticated === true") Add to basket
