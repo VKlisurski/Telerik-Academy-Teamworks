@@ -1,0 +1,20 @@
+<h2>Admin panel</h2>
+<button id="btn-admin-view-all-codes">View all added codes</button>
+<button id="btn-admin-view-all-users">View all users</button>
+<button id="btn-admin-add-code">Add new code</button>
+<ul id="users-container"></ul>
+<div id="info"></div>
+<script id="users-template" type="text/x-handlebars-template">
+    <li>
+        <p>Username: <span>{{UserName}}</span></p>
+        <button id="btn-delete-user">Delete</button>
+    </li>
+</script>
+<ul id="codes-container"></ul>
+<script id="codes-template" type="text/x-handlebars-template">
+    <li>
+        <p><span>Code: </span>{{Value}}</p>
+
+        <p><span>Is Winning?: </span>{{IsWinning}}</p>
+    </li>
+</script>

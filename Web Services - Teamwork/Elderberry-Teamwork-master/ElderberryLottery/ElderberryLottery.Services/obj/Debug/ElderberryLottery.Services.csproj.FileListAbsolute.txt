@@ -1,0 +1,484 @@
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.dll.config
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.pdb
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Antlr3.Runtime.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.SqlServer.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Google.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Web.Infrastructure.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Newtonsoft.Json.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Owin.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Net.Http.Formatting.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Helpers.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Owin.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.WebHost.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Mvc.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Optimization.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Razor.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Deployment.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Razor.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\WebGrease.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Newtonsoft.Json.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Net.Http.Formatting.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Helpers.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.WebHost.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Mvc.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Optimization.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Razor.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Deployment.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Razor.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Antlr3.Runtime.pdb
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.SqlServer.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Google.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Owin.xml
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.csprojResolveAssemblyReference.cache
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.pdb
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Models.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLotttery.Data.dll
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Models.pdb
+E:\Academy\Web Services And Cloud\Teamwork V1.1\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLotttery.Data.pdb
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.dll.config
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.pdb
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Antlr3.Runtime.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Models.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLotttery.Data.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Newtonsoft.Json.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Owin.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Helpers.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Owin.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Mvc.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Optimization.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Razor.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\WebGrease.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Models.pdb
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLotttery.Data.pdb
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Newtonsoft.Json.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Helpers.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Mvc.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Optimization.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Razor.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Antlr3.Runtime.pdb
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.SqlServer.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Owin.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.csprojResolveAssemblyReference.cache
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.pdb
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.ContextPreservation.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.NamedScope.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.OwinHost.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.OwinHost.dll
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.ContextPreservation.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.NamedScope.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.OwinHost.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.xml
+C:\Users\aniad_000\Desktop\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.OwinHost.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.dll.config
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.pdb
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Antlr3.Runtime.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Models.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLotttery.Data.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Newtonsoft.Json.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.ContextPreservation.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.NamedScope.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.OwinHost.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.OwinHost.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Owin.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Cors.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Helpers.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Cors.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Owin.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Mvc.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Optimization.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Razor.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\WebGrease.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Models.pdb
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLotttery.Data.pdb
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Newtonsoft.Json.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.ContextPreservation.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.NamedScope.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.OwinHost.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.OwinHost.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Cors.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Helpers.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Mvc.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Optimization.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Razor.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Antlr3.Runtime.pdb
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.SqlServer.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Owin.xml
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.dll
+C:\Users\Radoslav\Desktop\Teamwork\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.pdb
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.dll.config
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.pdb
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Antlr3.Runtime.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Models.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLotttery.Data.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.SqlServer.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Core.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Cookies.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Facebook.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Google.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.OAuth.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Twitter.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Newtonsoft.Json.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.ContextPreservation.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.NamedScope.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.OwinHost.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.OwinHost.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Owin.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Net.Http.Formatting.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Cors.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Helpers.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Cors.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Owin.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.WebHost.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Mvc.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Optimization.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Razor.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Deployment.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Razor.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\WebGrease.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Models.pdb
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLotttery.Data.pdb
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Newtonsoft.Json.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.ContextPreservation.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.NamedScope.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.OwinHost.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.OwinHost.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Net.Http.Formatting.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Cors.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Helpers.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.WebHost.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Mvc.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Optimization.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Razor.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Deployment.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Razor.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Antlr3.Runtime.pdb
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.SqlServer.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Core.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Facebook.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Cookies.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.OAuth.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Google.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Twitter.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Owin.xml
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.csprojResolveAssemblyReference.cache
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.dll
+E:\GitHub\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.pdb
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.dll.config
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.pdb
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Antlr3.Runtime.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Models.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLotttery.Data.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.SqlServer.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Newtonsoft.Json.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.ContextPreservation.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.NamedScope.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.OwinHost.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.OwinHost.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Owin.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Net.Http.Formatting.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Cors.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Helpers.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Cors.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Owin.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.WebHost.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Mvc.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Optimization.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Razor.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Razor.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\WebGrease.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Models.pdb
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLotttery.Data.pdb
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Newtonsoft.Json.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.ContextPreservation.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.NamedScope.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.OwinHost.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.OwinHost.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Net.Http.Formatting.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Cors.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Helpers.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.WebHost.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Mvc.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Optimization.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Razor.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Razor.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Antlr3.Runtime.pdb
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.SqlServer.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Owin.xml
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.csprojResolveAssemblyReference.cache
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.dll
+C:\Users\Radoslav\Desktop\Lottery\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.pdb
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.dll.config
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Services.pdb
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Antlr3.Runtime.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Models.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLotttery.Data.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.SqlServer.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Google.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Web.Infrastructure.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Newtonsoft.Json.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.ContextPreservation.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.NamedScope.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.OwinHost.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.OwinHost.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Owin.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Net.Http.Formatting.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Cors.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Helpers.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Cors.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Owin.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.WebHost.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Mvc.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Optimization.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Razor.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Deployment.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Razor.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\WebGrease.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLottery.Models.pdb
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\ElderberryLotttery.Data.pdb
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Newtonsoft.Json.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.ContextPreservation.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Extensions.NamedScope.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.Common.OwinHost.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Ninject.Web.WebApi.OwinHost.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Net.Http.Formatting.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Cors.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Helpers.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.WebHost.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Mvc.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Optimization.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Razor.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Deployment.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.WebPages.Razor.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Antlr3.Runtime.pdb
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\EntityFramework.SqlServer.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Google.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\bin\System.Web.Http.Owin.xml
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.csprojResolveAssemblyReference.cache
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.dll
+D:\Telerik\WebServices\TEAMWORK\Elderberry-Teamwork\ElderberryLottery\ElderberryLottery.Services\obj\Debug\ElderberryLottery.Services.pdb

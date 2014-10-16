@@ -1,0 +1,9 @@
+#posts-container li {
+    list-style-type: none;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+#posts-container li span {
+    font-weight: bold;
+}

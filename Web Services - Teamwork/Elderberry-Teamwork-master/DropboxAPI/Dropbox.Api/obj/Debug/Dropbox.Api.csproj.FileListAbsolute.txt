@@ -1,0 +1,10 @@
+E:\BGIntel\New folder\DropboxPart3\Dropbox.Api\bin\Debug\Dropbox.Api.dll
+E:\BGIntel\New folder\DropboxPart3\Dropbox.Api\bin\Debug\Dropbox.Api.pdb
+E:\BGIntel\New folder\DropboxPart3\Dropbox.Api\bin\Debug\Newtonsoft.Json.dll
+E:\BGIntel\New folder\DropboxPart3\Dropbox.Api\bin\Debug\OAuthProtocol.dll
+E:\BGIntel\New folder\DropboxPart3\Dropbox.Api\bin\Debug\OAuthProtocol.pdb
+E:\BGIntel\New folder\DropboxPart3\Dropbox.Api\bin\Debug\Newtonsoft.Json.pdb
+E:\BGIntel\New folder\DropboxPart3\Dropbox.Api\bin\Debug\Newtonsoft.Json.xml
+E:\BGIntel\New folder\DropboxPart3\Dropbox.Api\obj\Debug\Dropbox.Api.csprojResolveAssemblyReference.cache
+E:\BGIntel\New folder\DropboxPart3\Dropbox.Api\obj\Debug\Dropbox.Api.dll
+E:\BGIntel\New folder\DropboxPart3\Dropbox.Api\obj\Debug\Dropbox.Api.pdb
